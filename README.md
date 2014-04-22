@@ -14,6 +14,6 @@ Adds `ResponseFilter` plugin on administration page.
 
 ## Usage
 
-1. Point your web browser to any web-page of your site
-2. Use your web-browser to display a page source. As a result, page title, meta keywords and description are set by the plugin automatically.
+1. Point your web browser to any web-page of your site.
+2. Use your web-browser to display a page source. As a result, plugin sets page title, meta keywords and description.
 
